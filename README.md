@@ -1,1 +1,1 @@
-# UniqueBible_Plugins_Event
+# UniqueBible Plugins Event
